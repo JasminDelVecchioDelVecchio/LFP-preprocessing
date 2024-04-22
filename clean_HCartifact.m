@@ -17,7 +17,7 @@ else
 end
 
 % Subject
-subj_name = 'PW_TB89';
+subj_name = 'sb01';
 
 % Right (rx) and Left (lx) suffixes (for kinematic events)
 rx_lx_suffix = {'rx','lx'};
